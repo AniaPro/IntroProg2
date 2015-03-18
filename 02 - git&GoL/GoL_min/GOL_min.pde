@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 // AniaPro 
+=======
+// to jest wersja by argian
+>>>>>>> origin/master
 
 //LOSOWA MATRYCA
 
